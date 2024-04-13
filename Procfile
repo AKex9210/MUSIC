@@ -1,1 +1,1 @@
-worker: bash start
+STORM: bash start
