@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    STORM: Dockerfile
 run:
-  worker: bash start
+  STORM: bash start
